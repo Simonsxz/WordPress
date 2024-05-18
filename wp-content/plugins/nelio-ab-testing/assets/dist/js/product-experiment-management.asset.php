@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('jquery', 'lodash', 'nab-components', 'nab-data', 'nab-experiments', 'nab-utils', 'wp-components', 'wp-data', 'wp-dom-ready', 'wp-element', 'wp-i18n', 'wp-media-utils'), 'version' => 'f5bd4924fc3139914b5f');
